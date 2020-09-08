@@ -1,7 +1,7 @@
 div {
-    height: 500px; /* Высота блока */
-    width: 500px; /* Ширина блока */
-    overflow: scroll; /* Добавляем полосы прокрутки */
+    height: 500px; /* Г‚Г»Г±Г®ГІГ  ГЎГ«Г®ГЄГ  */
+    width: 500px; /* ГГЁГ°ГЁГ­Г  ГЎГ«Г®ГЄГ  */
+    overflow: scroll; /* Г„Г®ГЎГ ГўГ«ГїГҐГ¬ ГЇГ®Г«Г®Г±Г» ГЇГ°Г®ГЄГ°ГіГІГЄГЁ */
     background-color: #b3ba61;
 }
 .vul {
@@ -19,5 +19,4 @@ div {
 .footer-author{
    font-size: 24px;
    color: #fff
-    position: fixed;
 }
